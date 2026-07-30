@@ -1,0 +1,31 @@
+body{
+  background: #ceb4fb;
+}
+h1{
+  color: gold;
+  text-shadow: 2px 2px brown;
+  background: #e9e1be;
+  text-align: center;
+  font-size: 44px;
+}
+p{
+  color: darkgreen;
+  background: lightblue;
+}
+h4{
+  color: saddlebrown;
+  background: gold;
+}
+ul{
+  color: darkgreen;
+  background: #e9e1be;
+}
+ol{
+  color: #b14457;
+  background: #ffb020;
+  text-decoration: underline;
+}
+img{
+  border-color: saddlebrown;
+  border-style: dotted;
+}
